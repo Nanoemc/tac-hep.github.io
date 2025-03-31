@@ -30,7 +30,7 @@ I am a graduate student at the University of Wisconsin-Madison working on a PhD 
 I currently work on the Elastic Analysis Facility (EAF) hosted at Fermilab. It is part of the R&D effort to develop high performing analysis tools that we can use for HL-LHC and generally for other future experiments. Specifically I work on developing the Dask setup and system that integrates with Fermilab’s HTCondor system. I hope to improve the way we use Dask so that we can sustain and support many users in an easy to implement way. Other tasks I work on are benchmarking for the EAF, acting as a liaison between the EAF and IRIS-HEP, and I generally aid and support as a member of the EAF applications team. 
 
 ### Recent Accomplishments
-- [EAF White Paper for the European Strategy for Particle Physics – 2026 update](EAF_whitepaper.pdf)
+- [EAF White Paper for the European Strategy for Particle Physics – 2026 update](/assets/pdf/EAF_whitepaper.pdf)
 - [US CMS Analysis Facility Meeting Talk] (https://indico.cern.ch/event/1478327/contributions/6227144/attachments/2965981/5218145/AGC%20Benchmarks%20at%20EAF.pdf) documenting benchmarking efforts for the EAF through the AGC
 - [Added features to dask set-up (HTCdaskgateway)](https://github.com/mapsacosta/htcdaskgateway), like user ability to specify worker images
 - Updated [Documentation](https://eafdocs.fnal.gov/02_batch_dask_cms.html) for dask set-up (HTCdaskgateway) NOTE: Fermilab service accounts are now required for documentation access
