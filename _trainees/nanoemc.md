@@ -5,7 +5,7 @@ name: Elise Chavez
 institution: "University of Wisconsin-Madison"
 e-mail: emchavez@wisc.edu
 github-username: nanoemc
-photo: /assets/images/trainees/Elise-Chavez.jpg
+photo: /assets/images/trainees/Elise-Chavez-2.jpg
 start_date: "2023-01-24"
 end_date: "2025-01-24"
 training_modules:
