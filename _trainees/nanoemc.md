@@ -31,7 +31,7 @@ I currently work on the Elastic Analysis Facility (EAF) hosted at Fermilab. It i
 
 ### Recent Accomplishments
 - [EAF White Paper for the European Strategy for Particle Physics – 2026 update](https://indico.global/event/14242/contributions/122934/attachments/57645/110741/EAF_Whitepaper_for_EU_Particle_Physics_Strategy_Update.pdf)
-- [US CMS Analysis Facility Meeting Talk] (https://indico.cern.ch/event/1478327/contributions/6227144/attachments/2965981/5218145/AGC%20Benchmarks%20at%20EAF.pdf) documenting benchmarking efforts for the EAF through the AGC
+- [US CMS Analysis Facility Meeting Talk](https://indico.cern.ch/event/1478327/contributions/6227144/attachments/2965981/5218145/AGC%20Benchmarks%20at%20EAF.pdf) documenting benchmarking efforts for the EAF through the AGC
 - [Added features to dask set-up (HTCdaskgateway)](https://github.com/mapsacosta/htcdaskgateway), like user ability to specify worker images
 - Updated [Documentation](https://eafdocs.fnal.gov/02_batch_dask_cms.html) for dask set-up (HTCdaskgateway) NOTE: Fermilab service accounts are now required for documentation access
 - [Demonstration Video of the EAF](https://indico.cern.ch/event/1291680/contributions/5581053/attachments/2714147/4713730/EAF_Demo_Video_with_audio.mp4) - Combination of the work described, produced for the AGC Demonstration Day
