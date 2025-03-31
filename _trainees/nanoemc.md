@@ -18,8 +18,7 @@ website: https://www.physics.wisc.edu/directory/chavez-elise-m/
 networks:
   - cms
 presentations:
-- [US CMS Analysis Facility Meeting Talk](https://indico.cern.ch/event/1478327/contributions/6227144/attachments/2965981/5218145/AGC%20Benchmarks%20at%20EAF.pdf)
-
+- "[US CMS Analysis Facility Meeting Talk](https://indico.cern.ch/event/1478327/contributions/6227144/attachments/2965981/5218145/AGC%20Benchmarks%20at%20EAF.pdf)"
 ---
 
 ### Biography and Interests
